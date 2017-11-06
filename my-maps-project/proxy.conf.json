@@ -1,0 +1,6 @@
+{
+    "/houses": {
+        "target": "https://craigslistmap.herokuapp.com/:8080",
+        "secure": false
+    }
+}
