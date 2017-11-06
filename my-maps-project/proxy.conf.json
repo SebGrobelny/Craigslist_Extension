@@ -1,6 +1,6 @@
 {
     "/houses": {
-        "target": "http://craigslistmap.herokuapp.com:5803",
+        "target": "http://craigslistmap.herokuapp.com",
         "secure": false
     }
 }
