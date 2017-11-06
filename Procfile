@@ -1,0 +1,1 @@
+web: gunicorn Craiglist_Django.wsgi --log-file -
