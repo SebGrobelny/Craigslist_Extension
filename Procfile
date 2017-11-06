@@ -1,1 +1,1 @@
-web: gunicorn Craiglist_Django.wsgi --log-file -
+web: gunicorn Craigslist_Django.wsgi --log-file -
