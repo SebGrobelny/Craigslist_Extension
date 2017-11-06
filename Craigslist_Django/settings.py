@@ -26,7 +26,7 @@ SECRET_KEY = 'g4mj3vz1s7jn*pcmb4^qypqsjf+-1x^^gh#6y3vjg$afi+)z1d'
 DEBUG = True
 
 
-
+ALLOWED_HOSTS = ['127.0.0.1','craigslistmap.herokuapp.com']
 
 #Allow CORS
 CORS_ORIGIN_ALLOW_ALL = False
