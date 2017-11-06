@@ -32,7 +32,7 @@ DEBUG = True
 CORS_ORIGIN_ALLOW_ALL = False
 
 CORS_ORIGIN_WHITELIST = (
-    '127.0.0.1:8000', 'craigslistmap.herokuapp.com'
+    '127.0.0.1:8000', 'craigslistmap.herokuapp.com',
 )
 
 # Application definition
