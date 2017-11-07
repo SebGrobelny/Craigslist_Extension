@@ -71,7 +71,7 @@ var AppComponent = (function () {
         this.lat = 37.7749;
         this.lng = -122.4194;
         this.zoom = 10;
-        this.url = 'http://localhost:8000/houses';
+        this.url = 'https://craigslistmap.herokuapp.com/houses';
         this.data = 'House Results';
         this.markers = [];
     }
