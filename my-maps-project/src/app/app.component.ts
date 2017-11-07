@@ -21,7 +21,7 @@ export class AppComponent {
   lng: number = -122.4194;
   zoom: number = 10;
 
-  url : string = 'http://localhost:8000/houses';
+  url : string = 'https://craigslistmap.herokuapp.com/houses';
   data: string = 'House Results';
 
     constructor(private http : Http){}
